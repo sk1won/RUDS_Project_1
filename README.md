@@ -7,3 +7,4 @@ Languages:
 - Jupyter Notebook 
 - Matplotlib 
 - Excell 
+- Numpy
